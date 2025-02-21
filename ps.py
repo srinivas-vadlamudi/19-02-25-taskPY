@@ -163,7 +163,7 @@ as a vowel, consonant, or neither.'''
 #         print("Special characters")
 
 '''Calculate the grade of a student based on the marks they
-score:
+scores:
 1. 90-100: Grade A
 2. 80-89: Grade B
 3. 70-79: Grade C
